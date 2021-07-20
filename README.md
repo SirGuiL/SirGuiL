@@ -5,3 +5,4 @@ Trabalhei por um  curto período de tempo como freelancer e atualmente estou pro
 Atualmente estou aprendendo sobre ReactJS e NextJS. Mas pretendo aprender em breve sobre React Native, VueJS e AngularJS.<br/>
 Email para contato: guibiel-10@hotmail.com<br/>
 Linkedin: https://www.linkedin.com/in/guilherme-lima-de-souza-5422991b5/
+Portfólio: https://sirguil.github.io/
