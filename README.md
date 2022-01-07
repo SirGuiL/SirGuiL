@@ -1,5 +1,5 @@
 ### Olá :grinning:👋
-Me chamo Guilherme e tenho 18 anos. Me formei no curso técnico de Desenvolvimento de Sistemas na Etec de Guarulhos e atualmente estou cursando a faculdade de Ciência da Computação. <br/>
+Me chamo Guilherme e tenho 19 anos. Me formei no curso técnico de Desenvolvimento de Sistemas na Etec de Guarulhos e atualmente estou cursando a faculdade de Ciência da Computação. <br/>
 Trabalhei como freelancer e atualmente estou procurando um estágio como desenvolvedor web.<br/><br/>
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirGuiL&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
