@@ -6,7 +6,7 @@ Atualmente trabalho como programador front-end na Speedio.<br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirGuiL&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div><br/><hr>
 <div style="display: inline_block"><br>
-  <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="VueJS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
