@@ -17,7 +17,7 @@ Atualmente trabalho como programador front-end na Speedio.<br/><br/>
 </div><br/><hr>
   <a href="https://www.instagram.com/sir_guil_21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=833ab4" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-lima-de-souza-5422991b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br/>
-Email para contato: guibiel-10@hotmail.com <br/>
+Email para contato: guilherme.dev02@gmail.com <br/>
 Portfólio: https://sirguil.github.io/
 
 ![Snake animation](https://github.com/SirGuiL/SirGuiL/blob/output/github-contribution-grid-snake.svg)
